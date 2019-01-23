@@ -1,0 +1,6 @@
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\bin\Debug\NetFrameworkChecker.ConsoleApp.exe
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\bin\Debug\NetFrameworkChecker.ConsoleApp.pdb
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\obj\Debug\NetFrameworkChecker.ConsoleApp.csprojAssemblyReference.cache
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\obj\Debug\NetFrameworkChecker.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\obj\Debug\NetFrameworkChecker.ConsoleApp.exe
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameworkChecker.ConsoleApp\obj\Debug\NetFrameworkChecker.ConsoleApp.pdb

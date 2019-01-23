@@ -8,3 +8,13 @@ D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\D
 D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csproj.CoreCompileInputs.cache
 D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.exe
 D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.pdb
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.exe.config
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.exe
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.pdb
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csprojAssemblyReference.cache
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.Form1.resources
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.Properties.Resources.resources
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csproj.GenerateResource.cache
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csproj.CoreCompileInputs.cache
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.exe
+G:\Projects\Ranadeep\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.pdb
