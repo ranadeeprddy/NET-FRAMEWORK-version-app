@@ -1,0 +1,10 @@
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.exe.config
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.exe
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\bin\Debug\NetFrameWorkApp.pdb
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csprojAssemblyReference.cache
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.Form1.resources
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.Properties.Resources.resources
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csproj.GenerateResource.cache
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.csproj.CoreCompileInputs.cache
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.exe
+D:\Workspace\git\NET-FRAMEWORK-version-app\NetFrameWorkApp\NetFrameWorkApp\obj\Debug\NetFrameWorkApp.pdb
